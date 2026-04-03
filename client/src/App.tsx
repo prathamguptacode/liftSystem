@@ -3,7 +3,7 @@ import './App.css'
 function App() {
 
   return (
-    <div>reset</div>
+    <div className='text-amber-100'>reset</div>
   )
 }
 
